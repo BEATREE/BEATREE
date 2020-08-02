@@ -9,10 +9,12 @@
 - 💬 Ask me about ...
 -->
 
-- 🔭 I’m currently working (making ＄) for my graduate tutor 🤪
+- 🔭 I’m currently working on something I'd like to
 - 🌱 I’m currently learning Math and ML
 - 📫 How to reach me: [做棵大树](https://beatree.cn)
 - ⚡ Fun fact: 'Have no time for basketball ...'
+
+📊 The time I spent:
 
 <!--START_SECTION:waka-->
 ```text
@@ -23,6 +25,8 @@ CSS          42 mins         █░░░░░░░░░░░░░░░░
 JavaScript   17 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
 ```
 <!--END_SECTION:waka-->
+
+👀 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [[干货] 侃一侃我眼里的校招](https://beatree.cn/%e4%be%83%e4%b8%80%e4%be%83%e6%88%91%e7%9c%bc%e9%87%8c%e7%9a%84%e6%a0%a1%e6%8b%9b-%e5%b9%b2%e8%b4%a7%e5%8d%81%e8%b6%b3.html)

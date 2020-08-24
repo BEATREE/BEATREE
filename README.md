@@ -29,8 +29,8 @@ CSS      12 mins         ▒░░░░░░░░░░░░░░░░░�
 👀 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [相加求和问题 | LeetCode](https://beatree.cn/%e7%9b%b8%e5%8a%a0%e6%b1%82%e5%92%8c%e9%97%ae%e9%a2%98-leetcode.html)
+- [-128 == -128 ？| Java Integer](https://beatree.cn/128-128-%ef%bc%9f-java-integer.html)
 - [8月2日，我忽然压力好大](http://mortal.beatree.cn/8%e6%9c%882%e6%97%a5%ef%bc%8c%e6%88%91%e5%bf%bd%e7%84%b6%e5%8e%8b%e5%8a%9b%e5%a5%bd%e5%a4%a7.html)
-- [暑期跟随老师做项目杂感](http://mortal.beatree.cn/%e6%9a%91%e6%9c%9f%e8%b7%9f%e9%9a%8f%e8%80%81%e5%b8%88%e5%81%9a%e9%a1%b9%e7%9b%ae%e6%9d%82%e6%84%9f.html)
-- [毕业摄影集，有部分图片尚未汇总](http://mortal.beatree.cn/mygraduation.html)
-- [青春 · 好梦最难留，吹过仙洲。](http://mortal.beatree.cn/%e9%9d%92%e6%98%a5-%c2%b7-%e5%a5%bd%e6%a2%a6%e6%9c%80%e9%9a%be%e7%95%99%ef%bc%8c%e5%90%b9%e8%bf%87%e4%bb%99%e6%b4%b2%e3%80%82.html)
+- [[干货] 侃一侃我眼里的校招](https://beatree.cn/%e4%be%83%e4%b8%80%e4%be%83%e6%88%91%e7%9c%bc%e9%87%8c%e7%9a%84%e6%a0%a1%e6%8b%9b-%e5%b9%b2%e8%b4%a7%e5%8d%81%e8%b6%b3.html)
 <!-- BLOG-POST-LIST:END -->

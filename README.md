@@ -9,7 +9,7 @@
 - 💬 Ask me about ...
 -->
 
-- 🔭 I’m currently working on something I'd like to
+- 🔭 I’m currently working for my graduate tutor
 - 🌱 I’m currently learning Math and ML
 - 📫 How to reach me: [做棵大树](https://beatree.cn)
 - ⚡ Fun fact: 'Have no time for basketball ...'

@@ -19,7 +19,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   28 mins         ████████████████████████▓   98.53 % 
+
 ```
 <!--END_SECTION:waka-->
 

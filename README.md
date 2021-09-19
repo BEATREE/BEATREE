@@ -19,7 +19,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Java          1 hr 51 mins    █████████████████████████   99.78 % 
 ```
 <!--END_SECTION:waka-->
 

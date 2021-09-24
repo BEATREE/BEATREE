@@ -19,7 +19,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Java          1 hr 51 mins    █████████████████████████   99.78 % 
+Java          1 hr 51 mins    █████████████████████▒░░░   85.79 % 
+Python        13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+Markdown      4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 ```
 <!--END_SECTION:waka-->
 

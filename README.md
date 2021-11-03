@@ -19,9 +19,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Other      3 hrs 32 mins   ███████████████████░░░░░░   76.48 % 
-Python     1 hr 2 mins     █████▓░░░░░░░░░░░░░░░░░░░   22.52 % 
-Markdown   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+Other    3 hrs 32 mins   ███████████████████▒░░░░░   77.87 % 
+Python   1 hr            █████▓░░░░░░░░░░░░░░░░░░░   22.11 % 
 ```
 <!--END_SECTION:waka-->
 

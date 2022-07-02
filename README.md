@@ -20,7 +20,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Java           3 hrs 16 mins   ████████████████████████░   95.37 %
+Velocity       4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+VTL            2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+XML            1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+textmate       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->

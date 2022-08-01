@@ -20,10 +20,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python   29 mins         █████████████████▓░░░░░░░   70.26 %
-Java     8 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.39 %
-YAML     2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
-Vue.js   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
